@@ -1,4 +1,3 @@
-# Decathlon-PowerBI-Dashboard
 # Decathlon Sales & Performance Dashboard
 
 An interactive **Power BI** dashboard designed to analyze Decathlon's sales performance, profitability, customer orders, product returns, and regional trends using an AI-simulated retail dataset for data analytics and visualization practice.
