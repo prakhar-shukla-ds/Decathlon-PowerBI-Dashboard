@@ -41,10 +41,6 @@ An interactive **Power BI** dashboard designed to analyze Decathlon's sales perf
 
 *Add dashboard screenshots here.*
 
-## Data Model
-
-*Add the data model screenshot here.*
-
 ## Dataset
 
 This project uses a simulated retail sales dataset created for learning, portfolio development, and business intelligence practice.
