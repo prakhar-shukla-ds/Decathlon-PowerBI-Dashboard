@@ -1,0 +1,501 @@
+ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductDescription,ProductColor,ProductSize,ProductStyle,ProductCost,ProductPrice
+2001,1001,Dec-01,Running Shoes,Pro 863,Running Shoes designed for sports and outdoor activities.,Orange,44,Premium,204.67,311.51
+2002,1002,Dec-02,Running Apparel,Pro 109,Running Apparel designed for sports and outdoor activities.,Black,XL,Sport,300.19,457.9
+2003,1003,Dec-03,Hydration Packs,Active 864,Hydration Packs designed for sports and outdoor activities.,Green,One Size,Sport,130.26,225.43
+2004,1004,Dec-04,GPS Watches,Plus 388,GPS Watches designed for sports and outdoor activities.,White,38,Standard,364.03,551.54
+2005,1005,Dec-05,Running Socks,Plus 177,Running Socks designed for sports and outdoor activities.,White,M,Pro,337.71,470.84
+2006,1006,Dec-06,Hiking Shoes,Elite 370,Hiking Shoes designed for sports and outdoor activities.,Blue,M,Premium,14.64,22.53
+2007,1007,Dec-07,Trekking Backpacks,Active 723,Trekking Backpacks designed for sports and outdoor activities.,White,40,Standard,421.9,724.57
+2008,1008,Dec-08,Trekking Poles,Pro 784,Trekking Poles designed for sports and outdoor activities.,Orange,One Size,Standard,282.11,492.02
+2009,1009,Dec-09,Camping Tents,X 764,Camping Tents designed for sports and outdoor activities.,Black,44,Premium,172.69,344.66
+2010,1010,Dec-10,Sleeping Bags,Core 560,Sleeping Bags designed for sports and outdoor activities.,Red,One Size,Elite,222.49,444.11
+2011,1011,Dec-11,Mountain Bikes,Plus 193,Mountain Bikes designed for sports and outdoor activities.,White,42,Sport,427.94,709.39
+2012,1012,Dec-12,Road Bikes,Plus 357,Road Bikes designed for sports and outdoor activities.,Green,XS,Premium,206.21,301.86
+2013,1013,Dec-13,Cycling Helmets,Plus 825,Cycling Helmets designed for sports and outdoor activities.,Navy,38,Pro,472.59,783.84
+2014,1014,Dec-14,Cycling Jerseys,Elite 709,Cycling Jerseys designed for sports and outdoor activities.,Orange,40,Elite,279.49,502.73
+2015,1015,Dec-15,Bike Accessories,Active 469,Bike Accessories designed for sports and outdoor activities.,White,S,Standard,407.94,539.2
+2016,1016,Dec-16,Dumbbells,Elite 513,Dumbbells designed for sports and outdoor activities.,Green,M,Standard,68.44,125.84
+2017,1017,Dec-17,Resistance Bands,Active 505,Resistance Bands designed for sports and outdoor activities.,Orange,40,Sport,332.16,606.52
+2018,1018,Dec-18,Yoga Mats,Active 161,Yoga Mats designed for sports and outdoor activities.,Black,One Size,Standard,138.78,262.18
+2019,1019,Dec-19,Kettlebells,Active 210,Kettlebells designed for sports and outdoor activities.,Orange,42,Standard,476.25,624.09
+2020,1020,Dec-20,Exercise Bikes,Active 850,Exercise Bikes designed for sports and outdoor activities.,Black,XL,Elite,99.39,187.94
+2021,1021,Dec-21,Football Boots,Core 768,Football Boots designed for sports and outdoor activities.,Grey,44,Pro,167.35,324.22
+2022,1022,Dec-22,Footballs,Elite 892,Footballs designed for sports and outdoor activities.,Blue,S,Premium,60.48,89.81
+2023,1023,Dec-23,Goalkeeper Gloves,Pro 175,Goalkeeper Gloves designed for sports and outdoor activities.,Navy,XS,Elite,272.8,392.36
+2024,1024,Dec-24,Shin Guards,Elite 349,Shin Guards designed for sports and outdoor activities.,Navy,One Size,Standard,282.43,440.67
+2025,1025,Dec-25,Training Cones,Elite 865,Training Cones designed for sports and outdoor activities.,Black,S,Sport,247.73,457.26
+2026,1026,Dec-26,Cricket Bats,Active 630,Cricket Bats designed for sports and outdoor activities.,White,42,Pro,33.95,45.84
+2027,1027,Dec-27,Cricket Balls,Elite 145,Cricket Balls designed for sports and outdoor activities.,Grey,L,Sport,315.7,461.27
+2028,1028,Dec-28,Batting Gloves,Elite 107,Batting Gloves designed for sports and outdoor activities.,White,One Size,Sport,279.89,398.35
+2029,1029,Dec-29,Batting Pads,Plus 450,Batting Pads designed for sports and outdoor activities.,White,S,Elite,448.75,855.11
+2030,1030,Dec-30,Cricket Helmets,Elite 140,Cricket Helmets designed for sports and outdoor activities.,Black,M,Sport,491.68,758.31
+2031,1031,Dec-31,Badminton Rackets,Core 464,Badminton Rackets designed for sports and outdoor activities.,Green,S,Standard,26.05,37.41
+2032,1032,Dec-32,Shuttlecocks,Core 115,Shuttlecocks designed for sports and outdoor activities.,White,40,Sport,105.68,163.63
+2033,1033,Dec-33,Grip Tapes,Elite 177,Grip Tapes designed for sports and outdoor activities.,Blue,L,Elite,145.01,211.43
+2034,1034,Dec-34,Badminton Shoes,X 354,Badminton Shoes designed for sports and outdoor activities.,Grey,38,Standard,87.6,135.46
+2035,1035,Dec-35,Badminton Net Sets,Core 102,Badminton Net Sets designed for sports and outdoor activities.,Blue,42,Standard,441.3,573.76
+2036,1036,Dec-36,Tennis Rackets,Active 330,Tennis Rackets designed for sports and outdoor activities.,Black,S,Pro,232.18,318.11
+2037,1037,Dec-37,Tennis Balls,X 332,Tennis Balls designed for sports and outdoor activities.,Blue,XS,Standard,411.45,703.48
+2038,1038,Dec-38,Tennis Shoes,Pro 162,Tennis Shoes designed for sports and outdoor activities.,Grey,XL,Elite,306.06,399.25
+2039,1039,Dec-39,Tennis Bags,X 592,Tennis Bags designed for sports and outdoor activities.,White,M,Pro,288.13,538.61
+2040,1040,Dec-40,Tennis Strings,Core 266,Tennis Strings designed for sports and outdoor activities.,Green,42,Elite,43.74,63.38
+2041,1041,Dec-41,Swimwear,X 614,Swimwear designed for sports and outdoor activities.,Orange,M,Premium,295.49,404.23
+2042,1042,Dec-42,Swimming Goggles,Core 580,Swimming Goggles designed for sports and outdoor activities.,Black,XL,Pro,40.15,75.78
+2043,1043,Dec-43,Swim Caps,X 470,Swim Caps designed for sports and outdoor activities.,Grey,M,Sport,474.52,739.66
+2044,1044,Dec-44,Kickboards,Pro 221,Kickboards designed for sports and outdoor activities.,Blue,M,Pro,141.85,211.14
+2045,1045,Dec-45,Swimming Fins,X 241,Swimming Fins designed for sports and outdoor activities.,Green,44,Pro,442.99,599.26
+2046,1046,Dec-46,Camping Chairs,Plus 134,Camping Chairs designed for sports and outdoor activities.,White,L,Elite,463.36,647.24
+2047,1047,Dec-47,Camping Lanterns,X 426,Camping Lanterns designed for sports and outdoor activities.,Grey,One Size,Elite,10.55,19.15
+2048,1048,Dec-48,Cooler Boxes,Plus 327,Cooler Boxes designed for sports and outdoor activities.,Grey,40,Standard,350.94,638.41
+2049,1049,Dec-49,Camping Cooking Sets,Active 578,Camping Cooking Sets designed for sports and outdoor activities.,Orange,XL,Sport,170.41,264.71
+2050,1050,Dec-50,Hiking Backpacks,Elite 388,Hiking Backpacks designed for sports and outdoor activities.,Red,38,Elite,56.65,111.82
+2051,1051,Dec-51,Yoga Blocks,Active 518,Yoga Blocks designed for sports and outdoor activities.,Blue,L,Sport,181.39,331.5
+2052,1052,Dec-52,Yoga Straps,Pro 748,Yoga Straps designed for sports and outdoor activities.,Grey,XL,Elite,463.07,905.43
+2053,1053,Dec-53,Meditation Cushions,Pro 314,Meditation Cushions designed for sports and outdoor activities.,Blue,XL,Pro,434.94,843.62
+2054,1054,Dec-54,Foam Rollers,Core 769,Foam Rollers designed for sports and outdoor activities.,Grey,38,Elite,309.58,529.99
+2055,1055,Dec-55,Weight Plates,Active 890,Weight Plates designed for sports and outdoor activities.,Grey,L,Sport,249.73,490.21
+2056,1056,Dec-56,Barbells,Elite 786,Barbells designed for sports and outdoor activities.,Navy,XS,Standard,491.93,853.84
+2057,1057,Dec-57,Weight Benches,Active 228,Weight Benches designed for sports and outdoor activities.,Orange,S,Elite,169.65,234.69
+2058,1058,Dec-58,Pull-up Bars,Plus 104,Pull-up Bars designed for sports and outdoor activities.,Black,44,Standard,262.34,444.54
+2059,1059,Dec-59,Medicine Balls,Elite 890,Medicine Balls designed for sports and outdoor activities.,Navy,40,Sport,382.47,580.1
+2060,1060,Dec-60,Basketball Shoes,Plus 383,Basketball Shoes designed for sports and outdoor activities.,Orange,XL,Pro,25.67,37.71
+2061,1061,Dec-61,Basketballs,Core 119,Basketballs designed for sports and outdoor activities.,Red,XS,Elite,470.89,788.76
+2062,1062,Dec-62,Basketball Hoops,Elite 864,Basketball Hoops designed for sports and outdoor activities.,Grey,S,Standard,471.04,874.53
+2063,1063,Dec-63,Compression Wear,Pro 118,Compression Wear designed for sports and outdoor activities.,Navy,M,Pro,490.72,703.52
+2064,1064,Dec-64,Basketball Training Equipment,Core 383,Basketball Training Equipment designed for sports and outdoor activities.,Black,42,Elite,414.45,599.57
+2065,1065,Dec-65,Table Tennis Bats,Core 223,Table Tennis Bats designed for sports and outdoor activities.,Orange,S,Premium,153.3,248.26
+2066,1066,Dec-66,Table Tennis Balls,Active 639,Table Tennis Balls designed for sports and outdoor activities.,Green,38,Pro,96.17,177.13
+2067,1067,Dec-67,Table Tennis Tables,Plus 260,Table Tennis Tables designed for sports and outdoor activities.,Red,38,Sport,13.84,26.86
+2068,1068,Dec-68,Table Tennis Nets,Plus 181,Table Tennis Nets designed for sports and outdoor activities.,White,40,Sport,198.46,383.02
+2069,1069,Dec-69,Table Tennis Covers,Core 392,Table Tennis Covers designed for sports and outdoor activities.,Red,XL,Sport,74.51,114.55
+2070,1070,Dec-70,Frisbees,X 479,Frisbees designed for sports and outdoor activities.,Navy,XS,Elite,375.01,497.91
+2071,1071,Dec-71,Skipping Ropes,X 381,Skipping Ropes designed for sports and outdoor activities.,Black,38,Standard,494.02,689.25
+2072,1072,Dec-72,Binoculars,Core 408,Binoculars designed for sports and outdoor activities.,Black,M,Premium,393.84,702.52
+2073,1073,Dec-73,Water Bottles,Pro 535,Water Bottles designed for sports and outdoor activities.,White,S,Pro,184.84,256.7
+2074,1074,Dec-74,Headlamps,Pro 443,Headlamps designed for sports and outdoor activities.,Red,38,Standard,87.04,146.68
+2075,1075,Dec-75,Ski Jackets,Plus 861,Ski Jackets designed for sports and outdoor activities.,Blue,44,Sport,261.14,389.23
+2076,1076,Dec-76,Ski Pants,Elite 101,Ski Pants designed for sports and outdoor activities.,Red,42,Premium,40.03,79.12
+2077,1077,Dec-77,Ski Gloves,Active 326,Ski Gloves designed for sports and outdoor activities.,Navy,40,Pro,441.28,806.8
+2078,1078,Dec-78,Snow Boots,Elite 337,Snow Boots designed for sports and outdoor activities.,Red,L,Sport,365.09,522.28
+2079,1079,Dec-79,Thermal Wear,Plus 822,Thermal Wear designed for sports and outdoor activities.,Red,M,Standard,279.06,410.34
+2080,1001,Dec-80,Running Shoes,Pro 710,Running Shoes designed for sports and outdoor activities.,Black,40,Pro,15.25,23.56
+2081,1002,Dec-81,Running Apparel,Core 328,Running Apparel designed for sports and outdoor activities.,White,XS,Pro,481.43,728.58
+2082,1003,Dec-82,Hydration Packs,Plus 770,Hydration Packs designed for sports and outdoor activities.,Navy,XS,Sport,86.84,134.82
+2083,1004,Dec-83,GPS Watches,Core 162,GPS Watches designed for sports and outdoor activities.,Black,38,Pro,336.61,498.35
+2084,1005,Dec-84,Running Socks,Active 581,Running Socks designed for sports and outdoor activities.,Black,40,Standard,258.42,477.87
+2085,1006,Dec-85,Hiking Shoes,X 546,Hiking Shoes designed for sports and outdoor activities.,Navy,M,Elite,294.21,406.26
+2086,1007,Dec-86,Trekking Backpacks,Active 844,Trekking Backpacks designed for sports and outdoor activities.,Green,44,Sport,395.38,700.2
+2087,1008,Dec-87,Trekking Poles,Elite 823,Trekking Poles designed for sports and outdoor activities.,Red,42,Sport,8.12,14.15
+2088,1009,Dec-88,Camping Tents,Plus 358,Camping Tents designed for sports and outdoor activities.,Navy,One Size,Elite,112.52,177.71
+2089,1010,Dec-89,Sleeping Bags,Pro 243,Sleeping Bags designed for sports and outdoor activities.,Green,L,Premium,209.44,305.34
+2090,1011,Dec-90,Mountain Bikes,Elite 643,Mountain Bikes designed for sports and outdoor activities.,Green,42,Standard,325.29,556.22
+2091,1012,Dec-91,Road Bikes,Plus 595,Road Bikes designed for sports and outdoor activities.,Black,S,Elite,49.06,97.37
+2092,1013,Dec-92,Cycling Helmets,Pro 408,Cycling Helmets designed for sports and outdoor activities.,Green,XS,Elite,465.42,668.25
+2093,1014,Dec-93,Cycling Jerseys,Active 578,Cycling Jerseys designed for sports and outdoor activities.,Navy,M,Standard,273.13,527.25
+2094,1015,Dec-94,Bike Accessories,X 295,Bike Accessories designed for sports and outdoor activities.,White,38,Elite,100.23,191.33
+2095,1016,Dec-95,Dumbbells,Core 618,Dumbbells designed for sports and outdoor activities.,White,One Size,Sport,368.59,510.34
+2096,1017,Dec-96,Resistance Bands,Core 834,Resistance Bands designed for sports and outdoor activities.,Navy,40,Elite,58.66,97.49
+2097,1018,Dec-97,Yoga Mats,Plus 782,Yoga Mats designed for sports and outdoor activities.,Navy,44,Standard,49.97,97.51
+2098,1019,Dec-98,Kettlebells,Elite 300,Kettlebells designed for sports and outdoor activities.,Navy,XL,Elite,31.4,50.49
+2099,1020,Dec-99,Exercise Bikes,X 806,Exercise Bikes designed for sports and outdoor activities.,Orange,M,Standard,217.33,291.81
+2100,1021,Dec-00,Football Boots,X 418,Football Boots designed for sports and outdoor activities.,Orange,S,Standard,231.07,416.49
+2101,1022,Dec-01,Footballs,Active 210,Footballs designed for sports and outdoor activities.,Green,One Size,Elite,148.44,261.13
+2102,1023,Dec-02,Goalkeeper Gloves,Pro 125,Goalkeeper Gloves designed for sports and outdoor activities.,Blue,40,Sport,271.16,514.99
+2103,1024,Dec-03,Shin Guards,X 682,Shin Guards designed for sports and outdoor activities.,Green,One Size,Pro,148.05,289.04
+2104,1025,Dec-04,Training Cones,Elite 251,Training Cones designed for sports and outdoor activities.,Black,L,Elite,385.55,766.6
+2105,1026,Dec-05,Cricket Bats,Plus 124,Cricket Bats designed for sports and outdoor activities.,Black,44,Elite,427.24,567.39
+2106,1027,Dec-06,Cricket Balls,X 225,Cricket Balls designed for sports and outdoor activities.,Black,40,Standard,472.43,742.82
+2107,1028,Dec-07,Batting Gloves,Active 842,Batting Gloves designed for sports and outdoor activities.,Blue,L,Sport,208.81,338.79
+2108,1029,Dec-08,Batting Pads,X 429,Batting Pads designed for sports and outdoor activities.,Grey,42,Pro,323.41,537.09
+2109,1030,Dec-09,Cricket Helmets,X 641,Cricket Helmets designed for sports and outdoor activities.,Navy,40,Premium,171.54,327.05
+2110,1031,Dec-10,Badminton Rackets,Elite 757,Badminton Rackets designed for sports and outdoor activities.,Red,XL,Elite,91.13,130.22
+2111,1032,Dec-11,Shuttlecocks,Pro 573,Shuttlecocks designed for sports and outdoor activities.,Grey,42,Elite,444.61,608.06
+2112,1033,Dec-12,Grip Tapes,X 251,Grip Tapes designed for sports and outdoor activities.,Navy,40,Sport,164.42,282.77
+2113,1034,Dec-13,Badminton Shoes,Plus 355,Badminton Shoes designed for sports and outdoor activities.,Navy,XL,Standard,233.1,462.96
+2114,1035,Dec-14,Badminton Net Sets,Active 304,Badminton Net Sets designed for sports and outdoor activities.,Red,40,Premium,380.98,604.56
+2115,1036,Dec-15,Tennis Rackets,Plus 690,Tennis Rackets designed for sports and outdoor activities.,Red,42,Standard,119.29,181.86
+2116,1037,Dec-16,Tennis Balls,Pro 793,Tennis Balls designed for sports and outdoor activities.,Orange,One Size,Elite,30.57,60.94
+2117,1038,Dec-17,Tennis Shoes,Active 208,Tennis Shoes designed for sports and outdoor activities.,Red,42,Elite,24.09,46.45
+2118,1039,Dec-18,Tennis Bags,Active 404,Tennis Bags designed for sports and outdoor activities.,Blue,S,Pro,470.1,928.12
+2119,1040,Dec-19,Tennis Strings,Core 575,Tennis Strings designed for sports and outdoor activities.,Black,M,Sport,164.95,281.99
+2120,1041,Dec-20,Swimwear,Core 734,Swimwear designed for sports and outdoor activities.,White,M,Elite,496.16,687.3
+2121,1042,Dec-21,Swimming Goggles,X 799,Swimming Goggles designed for sports and outdoor activities.,Orange,M,Premium,173.45,294.63
+2122,1043,Dec-22,Swim Caps,X 854,Swim Caps designed for sports and outdoor activities.,Navy,L,Premium,57.42,92.77
+2123,1044,Dec-23,Kickboards,X 627,Kickboards designed for sports and outdoor activities.,White,One Size,Elite,48.68,81.06
+2124,1045,Dec-24,Swimming Fins,Elite 827,Swimming Fins designed for sports and outdoor activities.,White,38,Sport,260.8,390.98
+2125,1046,Dec-25,Camping Chairs,Elite 614,Camping Chairs designed for sports and outdoor activities.,Navy,38,Standard,107.08,188.28
+2126,1047,Dec-26,Camping Lanterns,Plus 757,Camping Lanterns designed for sports and outdoor activities.,Orange,38,Sport,278.49,387.88
+2127,1048,Dec-27,Cooler Boxes,Active 183,Cooler Boxes designed for sports and outdoor activities.,White,XS,Sport,336.22,603.22
+2128,1049,Dec-28,Camping Cooking Sets,X 205,Camping Cooking Sets designed for sports and outdoor activities.,Blue,XL,Elite,183.14,326.79
+2129,1050,Dec-29,Hiking Backpacks,Core 214,Hiking Backpacks designed for sports and outdoor activities.,Red,M,Sport,466.41,907.05
+2130,1051,Dec-30,Yoga Blocks,Elite 877,Yoga Blocks designed for sports and outdoor activities.,Blue,42,Premium,382.81,551.12
+2131,1052,Dec-31,Yoga Straps,Plus 886,Yoga Straps designed for sports and outdoor activities.,Black,42,Premium,302,394.86
+2132,1053,Dec-32,Meditation Cushions,Elite 194,Meditation Cushions designed for sports and outdoor activities.,Black,XL,Premium,183.32,342.56
+2133,1054,Dec-33,Foam Rollers,Core 832,Foam Rollers designed for sports and outdoor activities.,Red,44,Standard,239.71,466.5
+2134,1055,Dec-34,Weight Plates,Plus 778,Weight Plates designed for sports and outdoor activities.,Green,44,Sport,311.9,499.75
+2135,1056,Dec-35,Barbells,Pro 507,Barbells designed for sports and outdoor activities.,Navy,42,Standard,356.58,592.32
+2136,1057,Dec-36,Weight Benches,Active 855,Weight Benches designed for sports and outdoor activities.,Navy,One Size,Standard,381.03,712.09
+2137,1058,Dec-37,Pull-up Bars,Elite 863,Pull-up Bars designed for sports and outdoor activities.,Orange,L,Premium,451.79,819.08
+2138,1059,Dec-38,Medicine Balls,Elite 754,Medicine Balls designed for sports and outdoor activities.,Black,40,Sport,375.19,521.16
+2139,1060,Dec-39,Basketball Shoes,Elite 585,Basketball Shoes designed for sports and outdoor activities.,Grey,40,Elite,498.94,658.72
+2140,1061,Dec-40,Basketballs,X 306,Basketballs designed for sports and outdoor activities.,Orange,40,Sport,389.89,601.85
+2141,1062,Dec-41,Basketball Hoops,Elite 508,Basketball Hoops designed for sports and outdoor activities.,Green,XS,Premium,311.21,500.86
+2142,1063,Dec-42,Compression Wear,Pro 391,Compression Wear designed for sports and outdoor activities.,Orange,38,Sport,51.92,81.9
+2143,1064,Dec-43,Basketball Training Equipment,X 823,Basketball Training Equipment designed for sports and outdoor activities.,Grey,S,Sport,222.04,353.37
+2144,1065,Dec-44,Table Tennis Bats,X 308,Table Tennis Bats designed for sports and outdoor activities.,Red,42,Standard,417.95,576.47
+2145,1066,Dec-45,Table Tennis Balls,Elite 785,Table Tennis Balls designed for sports and outdoor activities.,Grey,One Size,Standard,209.08,294.43
+2146,1067,Dec-46,Table Tennis Tables,Pro 390,Table Tennis Tables designed for sports and outdoor activities.,Orange,XS,Pro,54.99,100.96
+2147,1068,Dec-47,Table Tennis Nets,Plus 555,Table Tennis Nets designed for sports and outdoor activities.,White,M,Elite,409.82,643.46
+2148,1069,Dec-48,Table Tennis Covers,Active 350,Table Tennis Covers designed for sports and outdoor activities.,Blue,42,Sport,128.67,212.35
+2149,1070,Dec-49,Frisbees,Pro 432,Frisbees designed for sports and outdoor activities.,Black,S,Premium,27.51,49.18
+2150,1071,Dec-50,Skipping Ropes,Plus 634,Skipping Ropes designed for sports and outdoor activities.,Green,M,Pro,157.27,311.17
+2151,1072,Dec-51,Binoculars,Active 387,Binoculars designed for sports and outdoor activities.,Red,L,Elite,349.28,466.72
+2152,1073,Dec-52,Water Bottles,Plus 872,Water Bottles designed for sports and outdoor activities.,Grey,XS,Elite,343.32,664.56
+2153,1074,Dec-53,Headlamps,X 168,Headlamps designed for sports and outdoor activities.,Orange,M,Standard,496.72,768.09
+2154,1075,Dec-54,Ski Jackets,X 826,Ski Jackets designed for sports and outdoor activities.,Grey,XL,Sport,195.98,364.28
+2155,1076,Dec-55,Ski Pants,Pro 328,Ski Pants designed for sports and outdoor activities.,Navy,S,Sport,353.05,522.33
+2156,1077,Dec-56,Ski Gloves,Plus 666,Ski Gloves designed for sports and outdoor activities.,Navy,44,Standard,405.5,543.44
+2157,1078,Dec-57,Snow Boots,Active 451,Snow Boots designed for sports and outdoor activities.,Grey,42,Pro,478.84,685.14
+2158,1079,Dec-58,Thermal Wear,X 624,Thermal Wear designed for sports and outdoor activities.,Navy,38,Pro,37.54,53.44
+2159,1001,Dec-59,Running Shoes,Core 283,Running Shoes designed for sports and outdoor activities.,Orange,40,Standard,337.5,556.82
+2160,1002,Dec-60,Running Apparel,Elite 763,Running Apparel designed for sports and outdoor activities.,Orange,XL,Premium,142.52,203.39
+2161,1003,Dec-61,Hydration Packs,X 348,Hydration Packs designed for sports and outdoor activities.,Red,44,Pro,250.86,387.36
+2162,1004,Dec-62,GPS Watches,Core 208,GPS Watches designed for sports and outdoor activities.,Grey,XS,Pro,133.87,190.37
+2163,1005,Dec-63,Running Socks,Core 558,Running Socks designed for sports and outdoor activities.,Navy,S,Elite,74.39,141.32
+2164,1006,Dec-64,Hiking Shoes,Plus 294,Hiking Shoes designed for sports and outdoor activities.,Navy,44,Standard,495.09,665.16
+2165,1007,Dec-65,Trekking Backpacks,Core 570,Trekking Backpacks designed for sports and outdoor activities.,Orange,38,Standard,64.86,88.53
+2166,1008,Dec-66,Trekking Poles,Core 222,Trekking Poles designed for sports and outdoor activities.,Red,XS,Standard,339.51,478.34
+2167,1009,Dec-67,Camping Tents,Elite 761,Camping Tents designed for sports and outdoor activities.,White,L,Sport,443.81,661.55
+2168,1010,Dec-68,Sleeping Bags,Pro 732,Sleeping Bags designed for sports and outdoor activities.,Blue,XS,Pro,349.93,597.09
+2169,1011,Dec-69,Mountain Bikes,Active 654,Mountain Bikes designed for sports and outdoor activities.,Red,L,Sport,235.51,454.4
+2170,1012,Dec-70,Road Bikes,X 833,Road Bikes designed for sports and outdoor activities.,Orange,40,Sport,67.08,98.25
+2171,1013,Dec-71,Cycling Helmets,Core 353,Cycling Helmets designed for sports and outdoor activities.,Green,38,Premium,428.6,565.19
+2172,1014,Dec-72,Cycling Jerseys,X 767,Cycling Jerseys designed for sports and outdoor activities.,White,44,Sport,446.24,646.7
+2173,1015,Dec-73,Bike Accessories,Plus 354,Bike Accessories designed for sports and outdoor activities.,Black,S,Pro,377.11,530.73
+2174,1016,Dec-74,Dumbbells,Plus 489,Dumbbells designed for sports and outdoor activities.,Grey,40,Elite,73.47,128.95
+2175,1017,Dec-75,Resistance Bands,X 132,Resistance Bands designed for sports and outdoor activities.,Green,XL,Elite,450.14,898.31
+2176,1018,Dec-76,Yoga Mats,Plus 881,Yoga Mats designed for sports and outdoor activities.,Green,S,Premium,378.67,518.57
+2177,1019,Dec-77,Kettlebells,X 661,Kettlebells designed for sports and outdoor activities.,White,38,Standard,160.79,260.57
+2178,1020,Dec-78,Exercise Bikes,Plus 559,Exercise Bikes designed for sports and outdoor activities.,Grey,S,Elite,403.82,595.73
+2179,1021,Dec-79,Football Boots,X 581,Football Boots designed for sports and outdoor activities.,Navy,One Size,Premium,248.44,486.98
+2180,1022,Dec-80,Footballs,Plus 257,Footballs designed for sports and outdoor activities.,Green,38,Premium,345.77,480.78
+2181,1023,Dec-81,Goalkeeper Gloves,Plus 173,Goalkeeper Gloves designed for sports and outdoor activities.,Black,One Size,Standard,297.86,533.99
+2182,1024,Dec-82,Shin Guards,Active 439,Shin Guards designed for sports and outdoor activities.,Grey,L,Standard,460.62,605.63
+2183,1025,Dec-83,Training Cones,Elite 730,Training Cones designed for sports and outdoor activities.,White,42,Elite,416.55,668.08
+2184,1026,Dec-84,Cricket Bats,Elite 284,Cricket Bats designed for sports and outdoor activities.,Red,L,Pro,309.78,422.25
+2185,1027,Dec-85,Cricket Balls,Elite 423,Cricket Balls designed for sports and outdoor activities.,Green,L,Premium,495.88,805.54
+2186,1028,Dec-86,Batting Gloves,Core 176,Batting Gloves designed for sports and outdoor activities.,Navy,XL,Elite,9.93,14.85
+2187,1029,Dec-87,Batting Pads,Elite 398,Batting Pads designed for sports and outdoor activities.,Red,One Size,Sport,167.66,262.51
+2188,1030,Dec-88,Cricket Helmets,Active 481,Cricket Helmets designed for sports and outdoor activities.,White,XS,Sport,54.41,107.36
+2189,1031,Dec-89,Badminton Rackets,Pro 232,Badminton Rackets designed for sports and outdoor activities.,Orange,44,Elite,219.54,314.31
+2190,1032,Dec-90,Shuttlecocks,Active 874,Shuttlecocks designed for sports and outdoor activities.,White,38,Sport,463.69,690.13
+2191,1033,Dec-91,Grip Tapes,X 330,Grip Tapes designed for sports and outdoor activities.,Green,L,Sport,321.24,620.19
+2192,1034,Dec-92,Badminton Shoes,Active 290,Badminton Shoes designed for sports and outdoor activities.,Red,XS,Standard,291.82,487.66
+2193,1035,Dec-93,Badminton Net Sets,X 106,Badminton Net Sets designed for sports and outdoor activities.,Red,XS,Elite,76.93,100.76
+2194,1036,Dec-94,Tennis Rackets,Plus 261,Tennis Rackets designed for sports and outdoor activities.,Grey,40,Elite,75.34,126.89
+2195,1037,Dec-95,Tennis Balls,Plus 186,Tennis Balls designed for sports and outdoor activities.,Black,XL,Standard,93.44,131.64
+2196,1038,Dec-96,Tennis Shoes,Core 531,Tennis Shoes designed for sports and outdoor activities.,Navy,38,Pro,355.15,644.54
+2197,1039,Dec-97,Tennis Bags,Active 602,Tennis Bags designed for sports and outdoor activities.,Green,S,Premium,255.55,396.79
+2198,1040,Dec-98,Tennis Strings,Elite 679,Tennis Strings designed for sports and outdoor activities.,Red,S,Premium,56.06,93.58
+2199,1041,Dec-99,Swimwear,Pro 796,Swimwear designed for sports and outdoor activities.,Grey,XS,Pro,198.87,344.82
+2200,1042,Dec-00,Swimming Goggles,Active 436,Swimming Goggles designed for sports and outdoor activities.,White,L,Premium,341.99,513.02
+2201,1043,Dec-01,Swim Caps,Active 226,Swim Caps designed for sports and outdoor activities.,Blue,S,Sport,189.24,252.13
+2202,1044,Dec-02,Kickboards,Active 774,Kickboards designed for sports and outdoor activities.,Orange,L,Premium,51.03,88.13
+2203,1045,Dec-03,Swimming Fins,X 639,Swimming Fins designed for sports and outdoor activities.,Red,L,Standard,242.64,392.42
+2204,1046,Dec-04,Camping Chairs,Active 469,Camping Chairs designed for sports and outdoor activities.,Black,M,Standard,57.34,105.11
+2205,1047,Dec-05,Camping Lanterns,X 240,Camping Lanterns designed for sports and outdoor activities.,Grey,XL,Premium,213.42,373.53
+2206,1048,Dec-06,Cooler Boxes,Plus 274,Cooler Boxes designed for sports and outdoor activities.,White,44,Elite,405.42,790.46
+2207,1049,Dec-07,Camping Cooking Sets,Active 570,Camping Cooking Sets designed for sports and outdoor activities.,Orange,M,Standard,226.19,317.4
+2208,1050,Dec-08,Hiking Backpacks,X 778,Hiking Backpacks designed for sports and outdoor activities.,Grey,M,Sport,431.13,597.13
+2209,1051,Dec-09,Yoga Blocks,Elite 133,Yoga Blocks designed for sports and outdoor activities.,Green,S,Premium,124.61,204.06
+2210,1052,Dec-10,Yoga Straps,Elite 326,Yoga Straps designed for sports and outdoor activities.,Orange,One Size,Pro,48.19,87.02
+2211,1053,Dec-11,Meditation Cushions,Elite 789,Meditation Cushions designed for sports and outdoor activities.,Red,38,Sport,162.63,305.56
+2212,1054,Dec-12,Foam Rollers,Plus 454,Foam Rollers designed for sports and outdoor activities.,Grey,One Size,Premium,415.01,576.44
+2213,1055,Dec-13,Weight Plates,X 134,Weight Plates designed for sports and outdoor activities.,Navy,L,Standard,6.33,8.59
+2214,1056,Dec-14,Barbells,X 655,Barbells designed for sports and outdoor activities.,Red,L,Standard,493.35,663.54
+2215,1057,Dec-15,Weight Benches,Active 524,Weight Benches designed for sports and outdoor activities.,Orange,40,Premium,262.7,347.37
+2216,1058,Dec-16,Pull-up Bars,Pro 824,Pull-up Bars designed for sports and outdoor activities.,Red,One Size,Standard,200.3,270.46
+2217,1059,Dec-17,Medicine Balls,Elite 757,Medicine Balls designed for sports and outdoor activities.,White,38,Premium,191.2,366.64
+2218,1060,Dec-18,Basketball Shoes,Core 831,Basketball Shoes designed for sports and outdoor activities.,Orange,42,Premium,99.76,178.33
+2219,1061,Dec-19,Basketballs,Core 890,Basketballs designed for sports and outdoor activities.,Blue,L,Pro,462.22,605.05
+2220,1062,Dec-20,Basketball Hoops,Active 510,Basketball Hoops designed for sports and outdoor activities.,Navy,38,Premium,406.63,737.34
+2221,1063,Dec-21,Compression Wear,Pro 420,Compression Wear designed for sports and outdoor activities.,Grey,L,Elite,471.96,657.21
+2222,1064,Dec-22,Basketball Training Equipment,X 429,Basketball Training Equipment designed for sports and outdoor activities.,White,L,Sport,293,567.02
+2223,1065,Dec-23,Table Tennis Bats,Core 135,Table Tennis Bats designed for sports and outdoor activities.,Red,One Size,Pro,482.77,849.94
+2224,1066,Dec-24,Table Tennis Balls,Elite 764,Table Tennis Balls designed for sports and outdoor activities.,Blue,S,Standard,53.67,105.01
+2225,1067,Dec-25,Table Tennis Tables,Elite 443,Table Tennis Tables designed for sports and outdoor activities.,Black,M,Elite,272.89,542.85
+2226,1068,Dec-26,Table Tennis Nets,Pro 189,Table Tennis Nets designed for sports and outdoor activities.,Grey,L,Sport,238.05,362.83
+2227,1069,Dec-27,Table Tennis Covers,X 268,Table Tennis Covers designed for sports and outdoor activities.,Grey,One Size,Standard,5.47,9.87
+2228,1070,Dec-28,Frisbees,X 143,Frisbees designed for sports and outdoor activities.,Green,S,Premium,497.06,936.09
+2229,1071,Dec-29,Skipping Ropes,Active 678,Skipping Ropes designed for sports and outdoor activities.,White,One Size,Elite,146.77,226.14
+2230,1072,Dec-30,Binoculars,Core 525,Binoculars designed for sports and outdoor activities.,White,40,Elite,191,319.04
+2231,1073,Dec-31,Water Bottles,Active 379,Water Bottles designed for sports and outdoor activities.,White,XL,Standard,221.17,315.23
+2232,1074,Dec-32,Headlamps,Active 507,Headlamps designed for sports and outdoor activities.,Grey,42,Sport,168.43,265.47
+2233,1075,Dec-33,Ski Jackets,Core 582,Ski Jackets designed for sports and outdoor activities.,White,M,Premium,325.6,501.74
+2234,1076,Dec-34,Ski Pants,Active 882,Ski Pants designed for sports and outdoor activities.,Navy,42,Premium,320.74,590.41
+2235,1077,Dec-35,Ski Gloves,Pro 291,Ski Gloves designed for sports and outdoor activities.,Blue,44,Premium,428.04,828.71
+2236,1078,Dec-36,Snow Boots,X 617,Snow Boots designed for sports and outdoor activities.,Navy,XL,Sport,475,930.77
+2237,1079,Dec-37,Thermal Wear,Core 594,Thermal Wear designed for sports and outdoor activities.,Navy,40,Premium,497.77,947.97
+2238,1001,Dec-38,Running Shoes,Active 188,Running Shoes designed for sports and outdoor activities.,Red,M,Premium,319.18,623.36
+2239,1002,Dec-39,Running Apparel,Core 383,Running Apparel designed for sports and outdoor activities.,Black,S,Elite,259.89,379.82
+2240,1003,Dec-40,Hydration Packs,X 784,Hydration Packs designed for sports and outdoor activities.,Navy,40,Premium,327.89,637.06
+2241,1004,Dec-41,GPS Watches,Core 242,GPS Watches designed for sports and outdoor activities.,Navy,XS,Standard,392.77,555.83
+2242,1005,Dec-42,Running Socks,Pro 632,Running Socks designed for sports and outdoor activities.,Navy,One Size,Elite,161.83,268.65
+2243,1006,Dec-43,Hiking Shoes,Pro 492,Hiking Shoes designed for sports and outdoor activities.,Grey,One Size,Elite,489.76,639.82
+2244,1007,Dec-44,Trekking Backpacks,Pro 765,Trekking Backpacks designed for sports and outdoor activities.,Grey,XS,Pro,334.84,658.02
+2245,1008,Dec-45,Trekking Poles,Pro 237,Trekking Poles designed for sports and outdoor activities.,Navy,M,Elite,87.02,161.94
+2246,1009,Dec-46,Camping Tents,Plus 673,Camping Tents designed for sports and outdoor activities.,Grey,42,Premium,474.51,706.58
+2247,1010,Dec-47,Sleeping Bags,Core 883,Sleeping Bags designed for sports and outdoor activities.,Blue,38,Pro,116.7,195.18
+2248,1011,Dec-48,Mountain Bikes,Plus 313,Mountain Bikes designed for sports and outdoor activities.,Blue,S,Standard,456.23,727.31
+2249,1012,Dec-49,Road Bikes,Plus 158,Road Bikes designed for sports and outdoor activities.,Green,XL,Standard,89.44,154.84
+2250,1013,Dec-50,Cycling Helmets,Pro 865,Cycling Helmets designed for sports and outdoor activities.,Orange,XS,Pro,303.87,592.67
+2251,1014,Dec-51,Cycling Jerseys,Active 278,Cycling Jerseys designed for sports and outdoor activities.,White,L,Sport,16.8,27.54
+2252,1015,Dec-52,Bike Accessories,Core 590,Bike Accessories designed for sports and outdoor activities.,Orange,S,Pro,380.73,555.88
+2253,1016,Dec-53,Dumbbells,X 184,Dumbbells designed for sports and outdoor activities.,Black,XS,Pro,53.63,101.44
+2254,1017,Dec-54,Resistance Bands,Core 552,Resistance Bands designed for sports and outdoor activities.,Green,40,Standard,136.48,255.76
+2255,1018,Dec-55,Yoga Mats,X 210,Yoga Mats designed for sports and outdoor activities.,Red,XS,Premium,142.7,219.16
+2256,1019,Dec-56,Kettlebells,Plus 185,Kettlebells designed for sports and outdoor activities.,White,M,Elite,37.6,73.95
+2257,1020,Dec-57,Exercise Bikes,Active 578,Exercise Bikes designed for sports and outdoor activities.,Green,38,Sport,66.36,117.95
+2258,1021,Dec-58,Football Boots,Plus 826,Football Boots designed for sports and outdoor activities.,Green,XS,Sport,335.19,505.07
+2259,1022,Dec-59,Footballs,Plus 479,Footballs designed for sports and outdoor activities.,Red,44,Pro,161.98,251.12
+2260,1023,Dec-60,Goalkeeper Gloves,Elite 604,Goalkeeper Gloves designed for sports and outdoor activities.,Orange,XS,Pro,323.54,477.38
+2261,1024,Dec-61,Shin Guards,Plus 306,Shin Guards designed for sports and outdoor activities.,Blue,M,Pro,499.58,990.7
+2262,1025,Dec-62,Training Cones,Plus 694,Training Cones designed for sports and outdoor activities.,Red,One Size,Pro,399.79,728.66
+2263,1026,Dec-63,Cricket Bats,Plus 867,Cricket Bats designed for sports and outdoor activities.,White,38,Pro,484.54,822.31
+2264,1027,Dec-64,Cricket Balls,Core 206,Cricket Balls designed for sports and outdoor activities.,Navy,42,Pro,80.29,106.62
+2265,1028,Dec-65,Batting Gloves,Plus 659,Batting Gloves designed for sports and outdoor activities.,Red,M,Elite,497.19,911.52
+2266,1029,Dec-66,Batting Pads,Elite 474,Batting Pads designed for sports and outdoor activities.,Blue,38,Sport,293.07,489.82
+2267,1030,Dec-67,Cricket Helmets,X 409,Cricket Helmets designed for sports and outdoor activities.,Grey,L,Elite,85.83,142.78
+2268,1031,Dec-68,Badminton Rackets,Elite 612,Badminton Rackets designed for sports and outdoor activities.,Navy,XL,Standard,153.69,230.98
+2269,1032,Dec-69,Shuttlecocks,Plus 644,Shuttlecocks designed for sports and outdoor activities.,Orange,42,Sport,37.86,71.33
+2270,1033,Dec-70,Grip Tapes,Plus 681,Grip Tapes designed for sports and outdoor activities.,Blue,40,Standard,496.7,741.83
+2271,1034,Dec-71,Badminton Shoes,Plus 184,Badminton Shoes designed for sports and outdoor activities.,Orange,44,Elite,73.19,117.23
+2272,1035,Dec-72,Badminton Net Sets,Active 841,Badminton Net Sets designed for sports and outdoor activities.,Red,40,Standard,25.12,46.88
+2273,1036,Dec-73,Tennis Rackets,Elite 783,Tennis Rackets designed for sports and outdoor activities.,Grey,42,Premium,257.03,410.07
+2274,1037,Dec-74,Tennis Balls,Plus 727,Tennis Balls designed for sports and outdoor activities.,Black,M,Premium,44.18,80.46
+2275,1038,Dec-75,Tennis Shoes,Plus 289,Tennis Shoes designed for sports and outdoor activities.,Red,44,Premium,165.84,303.97
+2276,1039,Dec-76,Tennis Bags,Elite 533,Tennis Bags designed for sports and outdoor activities.,White,38,Premium,458.27,648.1
+2277,1040,Dec-77,Tennis Strings,Elite 374,Tennis Strings designed for sports and outdoor activities.,Green,M,Sport,259.24,515.8
+2278,1041,Dec-78,Swimwear,Pro 347,Swimwear designed for sports and outdoor activities.,Red,38,Pro,287.73,535.53
+2279,1042,Dec-79,Swimming Goggles,Pro 876,Swimming Goggles designed for sports and outdoor activities.,White,XL,Sport,13.82,20.09
+2280,1043,Dec-80,Swim Caps,Active 386,Swim Caps designed for sports and outdoor activities.,White,XL,Pro,360.04,548.55
+2281,1044,Dec-81,Kickboards,Elite 629,Kickboards designed for sports and outdoor activities.,Green,One Size,Elite,334.93,574.66
+2282,1045,Dec-82,Swimming Fins,Core 556,Swimming Fins designed for sports and outdoor activities.,Green,38,Elite,461.39,663.58
+2283,1046,Dec-83,Camping Chairs,Core 181,Camping Chairs designed for sports and outdoor activities.,Grey,M,Pro,433.22,684.16
+2284,1047,Dec-84,Camping Lanterns,Plus 655,Camping Lanterns designed for sports and outdoor activities.,White,S,Standard,365.24,640.86
+2285,1048,Dec-85,Cooler Boxes,Elite 311,Cooler Boxes designed for sports and outdoor activities.,Navy,M,Elite,321.52,485.09
+2286,1049,Dec-86,Camping Cooking Sets,Core 711,Camping Cooking Sets designed for sports and outdoor activities.,Navy,XL,Elite,483.89,788.76
+2287,1050,Dec-87,Hiking Backpacks,X 234,Hiking Backpacks designed for sports and outdoor activities.,Grey,40,Sport,491.95,871.06
+2288,1051,Dec-88,Yoga Blocks,Pro 635,Yoga Blocks designed for sports and outdoor activities.,Blue,XL,Sport,35.43,69.91
+2289,1052,Dec-89,Yoga Straps,Plus 132,Yoga Straps designed for sports and outdoor activities.,White,40,Sport,122.09,228.43
+2290,1053,Dec-90,Meditation Cushions,Pro 780,Meditation Cushions designed for sports and outdoor activities.,Grey,XS,Sport,154.65,255.79
+2291,1054,Dec-91,Foam Rollers,Elite 849,Foam Rollers designed for sports and outdoor activities.,Blue,S,Pro,264.52,517.99
+2292,1055,Dec-92,Weight Plates,Elite 141,Weight Plates designed for sports and outdoor activities.,Orange,44,Sport,309.12,566.4
+2293,1056,Dec-93,Barbells,Active 192,Barbells designed for sports and outdoor activities.,Red,L,Pro,169.96,335.59
+2294,1057,Dec-94,Weight Benches,Pro 531,Weight Benches designed for sports and outdoor activities.,Navy,42,Standard,411.34,790.24
+2295,1058,Dec-95,Pull-up Bars,Plus 145,Pull-up Bars designed for sports and outdoor activities.,Green,L,Sport,186.88,278.04
+2296,1059,Dec-96,Medicine Balls,Pro 424,Medicine Balls designed for sports and outdoor activities.,Green,40,Elite,216.79,323.03
+2297,1060,Dec-97,Basketball Shoes,X 726,Basketball Shoes designed for sports and outdoor activities.,Green,38,Standard,21.71,34.55
+2298,1061,Dec-98,Basketballs,Active 654,Basketballs designed for sports and outdoor activities.,Red,42,Sport,95.44,165.68
+2299,1062,Dec-99,Basketball Hoops,Active 521,Basketball Hoops designed for sports and outdoor activities.,Green,M,Sport,256.63,396.51
+2300,1063,Dec-00,Compression Wear,Plus 556,Compression Wear designed for sports and outdoor activities.,Grey,40,Sport,136.67,201.72
+2301,1064,Dec-01,Basketball Training Equipment,Plus 857,Basketball Training Equipment designed for sports and outdoor activities.,Green,XS,Standard,365.74,699.95
+2302,1065,Dec-02,Table Tennis Bats,X 172,Table Tennis Bats designed for sports and outdoor activities.,Blue,S,Elite,170.37,320.08
+2303,1066,Dec-03,Table Tennis Balls,X 155,Table Tennis Balls designed for sports and outdoor activities.,Black,S,Standard,233.93,311.66
+2304,1067,Dec-04,Table Tennis Tables,Pro 808,Table Tennis Tables designed for sports and outdoor activities.,Red,XS,Premium,404.99,634.04
+2305,1068,Dec-05,Table Tennis Nets,Core 604,Table Tennis Nets designed for sports and outdoor activities.,Green,M,Elite,288.02,530.04
+2306,1069,Dec-06,Table Tennis Covers,Plus 412,Table Tennis Covers designed for sports and outdoor activities.,Navy,S,Elite,357.37,577.06
+2307,1070,Dec-07,Frisbees,Plus 168,Frisbees designed for sports and outdoor activities.,Navy,40,Standard,201.64,347.28
+2308,1071,Dec-08,Skipping Ropes,Elite 610,Skipping Ropes designed for sports and outdoor activities.,White,42,Pro,499.8,742.55
+2309,1072,Dec-09,Binoculars,Pro 145,Binoculars designed for sports and outdoor activities.,Blue,38,Standard,254.42,377.32
+2310,1073,Dec-10,Water Bottles,Active 468,Water Bottles designed for sports and outdoor activities.,Navy,42,Premium,355.7,705.31
+2311,1074,Dec-11,Headlamps,Core 241,Headlamps designed for sports and outdoor activities.,White,S,Elite,340.61,598.65
+2312,1075,Dec-12,Ski Jackets,X 774,Ski Jackets designed for sports and outdoor activities.,White,One Size,Premium,93.34,149.41
+2313,1076,Dec-13,Ski Pants,Pro 791,Ski Pants designed for sports and outdoor activities.,Orange,44,Standard,330.34,622.51
+2314,1077,Dec-14,Ski Gloves,Core 872,Ski Gloves designed for sports and outdoor activities.,Blue,42,Standard,418.51,689.47
+2315,1078,Dec-15,Snow Boots,Elite 753,Snow Boots designed for sports and outdoor activities.,Black,One Size,Premium,63.14,121.39
+2316,1079,Dec-16,Thermal Wear,X 110,Thermal Wear designed for sports and outdoor activities.,Green,42,Pro,336.98,526.21
+2317,1001,Dec-17,Running Shoes,Plus 495,Running Shoes designed for sports and outdoor activities.,Blue,One Size,Premium,104.82,178.72
+2318,1002,Dec-18,Running Apparel,Pro 790,Running Apparel designed for sports and outdoor activities.,Red,38,Sport,47.54,86.06
+2319,1003,Dec-19,Hydration Packs,Elite 531,Hydration Packs designed for sports and outdoor activities.,Grey,S,Pro,252.47,394.02
+2320,1004,Dec-20,GPS Watches,Elite 205,GPS Watches designed for sports and outdoor activities.,Grey,XS,Elite,429.71,821.77
+2321,1005,Dec-21,Running Socks,Core 156,Running Socks designed for sports and outdoor activities.,White,40,Sport,89.85,158.96
+2322,1006,Dec-22,Hiking Shoes,Active 538,Hiking Shoes designed for sports and outdoor activities.,Red,44,Premium,290.76,467.25
+2323,1007,Dec-23,Trekking Backpacks,Plus 382,Trekking Backpacks designed for sports and outdoor activities.,White,S,Sport,89.48,171.45
+2324,1008,Dec-24,Trekking Poles,Core 639,Trekking Poles designed for sports and outdoor activities.,Navy,38,Sport,80.65,141.15
+2325,1009,Dec-25,Camping Tents,Plus 624,Camping Tents designed for sports and outdoor activities.,Black,M,Standard,497.85,684.56
+2326,1010,Dec-26,Sleeping Bags,Plus 705,Sleeping Bags designed for sports and outdoor activities.,Black,XL,Premium,298.21,578.76
+2327,1011,Dec-27,Mountain Bikes,Plus 812,Mountain Bikes designed for sports and outdoor activities.,Navy,38,Elite,447.67,686.7
+2328,1012,Dec-28,Road Bikes,Core 488,Road Bikes designed for sports and outdoor activities.,Blue,40,Pro,64.71,126.27
+2329,1013,Dec-29,Cycling Helmets,X 123,Cycling Helmets designed for sports and outdoor activities.,White,S,Standard,159.49,253.65
+2330,1014,Dec-30,Cycling Jerseys,Active 119,Cycling Jerseys designed for sports and outdoor activities.,Blue,L,Standard,98.3,166.33
+2331,1015,Dec-31,Bike Accessories,Pro 722,Bike Accessories designed for sports and outdoor activities.,Red,XS,Pro,81.11,116.71
+2332,1016,Dec-32,Dumbbells,X 862,Dumbbells designed for sports and outdoor activities.,Black,S,Elite,67.88,118.35
+2333,1017,Dec-33,Resistance Bands,Plus 634,Resistance Bands designed for sports and outdoor activities.,White,44,Premium,85.15,140.22
+2334,1018,Dec-34,Yoga Mats,Pro 697,Yoga Mats designed for sports and outdoor activities.,Navy,L,Elite,301.17,573.41
+2335,1019,Dec-35,Kettlebells,Core 186,Kettlebells designed for sports and outdoor activities.,Navy,44,Standard,424.59,699.58
+2336,1020,Dec-36,Exercise Bikes,Active 669,Exercise Bikes designed for sports and outdoor activities.,Red,XS,Standard,188.25,367.48
+2337,1021,Dec-37,Football Boots,X 289,Football Boots designed for sports and outdoor activities.,Grey,M,Pro,312.83,533.79
+2338,1022,Dec-38,Footballs,Pro 862,Footballs designed for sports and outdoor activities.,Black,42,Standard,220.98,325.03
+2339,1023,Dec-39,Goalkeeper Gloves,Pro 193,Goalkeeper Gloves designed for sports and outdoor activities.,Black,S,Premium,304.84,433.22
+2340,1024,Dec-40,Shin Guards,X 172,Shin Guards designed for sports and outdoor activities.,Orange,40,Sport,8.81,11.68
+2341,1025,Dec-41,Training Cones,Core 127,Training Cones designed for sports and outdoor activities.,Grey,L,Standard,23.23,39.96
+2342,1026,Dec-42,Cricket Bats,Core 270,Cricket Bats designed for sports and outdoor activities.,Orange,XL,Elite,184.93,366.06
+2343,1027,Dec-43,Cricket Balls,Active 887,Cricket Balls designed for sports and outdoor activities.,Green,XS,Premium,300.33,482.72
+2344,1028,Dec-44,Batting Gloves,Pro 691,Batting Gloves designed for sports and outdoor activities.,Green,44,Sport,283.3,525.58
+2345,1029,Dec-45,Batting Pads,Plus 687,Batting Pads designed for sports and outdoor activities.,White,XL,Standard,91.69,181.72
+2346,1030,Dec-46,Cricket Helmets,Active 874,Cricket Helmets designed for sports and outdoor activities.,Orange,42,Premium,292.22,387.4
+2347,1031,Dec-47,Badminton Rackets,Pro 836,Badminton Rackets designed for sports and outdoor activities.,White,XS,Sport,131.1,240.7
+2348,1032,Dec-48,Shuttlecocks,X 711,Shuttlecocks designed for sports and outdoor activities.,Grey,40,Pro,334.14,627.73
+2349,1033,Dec-49,Grip Tapes,Core 268,Grip Tapes designed for sports and outdoor activities.,White,S,Premium,401.37,554.89
+2350,1034,Dec-50,Badminton Shoes,Pro 142,Badminton Shoes designed for sports and outdoor activities.,Orange,XS,Elite,272.71,511.16
+2351,1035,Dec-51,Badminton Net Sets,Core 326,Badminton Net Sets designed for sports and outdoor activities.,White,38,Standard,252.88,354.75
+2352,1036,Dec-52,Tennis Rackets,Elite 740,Tennis Rackets designed for sports and outdoor activities.,Grey,S,Elite,415.92,626.96
+2353,1037,Dec-53,Tennis Balls,Elite 546,Tennis Balls designed for sports and outdoor activities.,Red,L,Premium,499.41,785.42
+2354,1038,Dec-54,Tennis Shoes,X 315,Tennis Shoes designed for sports and outdoor activities.,Grey,XL,Elite,117.43,221.63
+2355,1039,Dec-55,Tennis Bags,X 656,Tennis Bags designed for sports and outdoor activities.,White,M,Pro,75.95,122.46
+2356,1040,Dec-56,Tennis Strings,Pro 668,Tennis Strings designed for sports and outdoor activities.,Black,S,Elite,38.21,66.49
+2357,1041,Dec-57,Swimwear,Core 188,Swimwear designed for sports and outdoor activities.,Grey,S,Elite,384.75,618.63
+2358,1042,Dec-58,Swimming Goggles,X 883,Swimming Goggles designed for sports and outdoor activities.,White,M,Premium,17.04,25.77
+2359,1043,Dec-59,Swim Caps,Pro 711,Swim Caps designed for sports and outdoor activities.,Navy,44,Sport,73.26,140.49
+2360,1044,Dec-60,Kickboards,Elite 153,Kickboards designed for sports and outdoor activities.,White,44,Premium,497.22,744.9
+2361,1045,Dec-61,Swimming Fins,Active 360,Swimming Fins designed for sports and outdoor activities.,Red,42,Sport,37.34,74.53
+2362,1046,Dec-62,Camping Chairs,X 115,Camping Chairs designed for sports and outdoor activities.,Navy,44,Premium,497.17,965.82
+2363,1047,Dec-63,Camping Lanterns,Elite 105,Camping Lanterns designed for sports and outdoor activities.,Grey,38,Pro,483.09,851.69
+2364,1048,Dec-64,Cooler Boxes,Active 706,Cooler Boxes designed for sports and outdoor activities.,Black,42,Sport,210.84,326.39
+2365,1049,Dec-65,Camping Cooking Sets,Plus 210,Camping Cooking Sets designed for sports and outdoor activities.,Grey,42,Pro,462.35,773.06
+2366,1050,Dec-66,Hiking Backpacks,Pro 652,Hiking Backpacks designed for sports and outdoor activities.,Navy,XL,Premium,200.91,365.93
+2367,1051,Dec-67,Yoga Blocks,Plus 116,Yoga Blocks designed for sports and outdoor activities.,Grey,S,Elite,276.73,493.77
+2368,1052,Dec-68,Yoga Straps,Core 604,Yoga Straps designed for sports and outdoor activities.,Grey,M,Standard,269.92,455.59
+2369,1053,Dec-69,Meditation Cushions,Plus 294,Meditation Cushions designed for sports and outdoor activities.,Black,38,Pro,297.62,533.43
+2370,1054,Dec-70,Foam Rollers,X 696,Foam Rollers designed for sports and outdoor activities.,Green,38,Premium,378.55,728.96
+2371,1055,Dec-71,Weight Plates,Core 548,Weight Plates designed for sports and outdoor activities.,Navy,44,Elite,488.88,821.23
+2372,1056,Dec-72,Barbells,Core 493,Barbells designed for sports and outdoor activities.,White,XS,Elite,108.17,157.52
+2373,1057,Dec-73,Weight Benches,Core 521,Weight Benches designed for sports and outdoor activities.,Orange,44,Pro,238.87,451.26
+2374,1058,Dec-74,Pull-up Bars,Plus 431,Pull-up Bars designed for sports and outdoor activities.,Orange,L,Standard,329.8,525.97
+2375,1059,Dec-75,Medicine Balls,Elite 389,Medicine Balls designed for sports and outdoor activities.,Blue,38,Sport,59.51,82.05
+2376,1060,Dec-76,Basketball Shoes,Elite 480,Basketball Shoes designed for sports and outdoor activities.,Navy,XS,Elite,239.23,312.28
+2377,1061,Dec-77,Basketballs,X 311,Basketballs designed for sports and outdoor activities.,Orange,S,Pro,234.47,347.17
+2378,1062,Dec-78,Basketball Hoops,Active 411,Basketball Hoops designed for sports and outdoor activities.,Grey,XL,Sport,300.24,470.49
+2379,1063,Dec-79,Compression Wear,X 638,Compression Wear designed for sports and outdoor activities.,Orange,L,Elite,418.71,624.57
+2380,1064,Dec-80,Basketball Training Equipment,X 891,Basketball Training Equipment designed for sports and outdoor activities.,Blue,XS,Pro,295.59,468.94
+2381,1065,Dec-81,Table Tennis Bats,Active 298,Table Tennis Bats designed for sports and outdoor activities.,Red,S,Standard,84.33,111.9
+2382,1066,Dec-82,Table Tennis Balls,X 875,Table Tennis Balls designed for sports and outdoor activities.,Black,XL,Pro,444.21,685.41
+2383,1067,Dec-83,Table Tennis Tables,Plus 272,Table Tennis Tables designed for sports and outdoor activities.,Green,38,Pro,204.13,398.21
+2384,1068,Dec-84,Table Tennis Nets,Active 694,Table Tennis Nets designed for sports and outdoor activities.,Grey,XL,Pro,53.22,81.44
+2385,1069,Dec-85,Table Tennis Covers,X 828,Table Tennis Covers designed for sports and outdoor activities.,Blue,44,Pro,284.46,531.19
+2386,1070,Dec-86,Frisbees,Plus 636,Frisbees designed for sports and outdoor activities.,Green,XS,Premium,297.08,412.15
+2387,1071,Dec-87,Skipping Ropes,Plus 143,Skipping Ropes designed for sports and outdoor activities.,Red,L,Pro,491.75,969.46
+2388,1072,Dec-88,Binoculars,Pro 815,Binoculars designed for sports and outdoor activities.,Red,42,Sport,108.94,172.76
+2389,1073,Dec-89,Water Bottles,Elite 207,Water Bottles designed for sports and outdoor activities.,Green,XL,Premium,352.1,553.44
+2390,1074,Dec-90,Headlamps,Pro 869,Headlamps designed for sports and outdoor activities.,Black,38,Premium,250.87,488.41
+2391,1075,Dec-91,Ski Jackets,X 560,Ski Jackets designed for sports and outdoor activities.,Orange,L,Premium,170.69,258.28
+2392,1076,Dec-92,Ski Pants,Core 681,Ski Pants designed for sports and outdoor activities.,Black,44,Pro,305.38,440.16
+2393,1077,Dec-93,Ski Gloves,X 471,Ski Gloves designed for sports and outdoor activities.,White,40,Standard,100.3,174.72
+2394,1078,Dec-94,Snow Boots,Plus 163,Snow Boots designed for sports and outdoor activities.,Navy,L,Sport,464.62,711.11
+2395,1079,Dec-95,Thermal Wear,Core 479,Thermal Wear designed for sports and outdoor activities.,Blue,40,Pro,251.09,423.3
+2396,1001,Dec-96,Running Shoes,Core 357,Running Shoes designed for sports and outdoor activities.,Green,One Size,Pro,134.99,186.46
+2397,1002,Dec-97,Running Apparel,Pro 596,Running Apparel designed for sports and outdoor activities.,Green,XL,Standard,230.74,363.94
+2398,1003,Dec-98,Hydration Packs,X 770,Hydration Packs designed for sports and outdoor activities.,Red,M,Pro,47.91,84.19
+2399,1004,Dec-99,GPS Watches,Pro 629,GPS Watches designed for sports and outdoor activities.,Navy,44,Sport,396.57,761.61
+2400,1005,Dec-00,Running Socks,X 887,Running Socks designed for sports and outdoor activities.,Green,L,Sport,43.31,72.48
+2401,1006,Dec-01,Hiking Shoes,Pro 628,Hiking Shoes designed for sports and outdoor activities.,Navy,One Size,Sport,178.03,313.66
+2402,1007,Dec-02,Trekking Backpacks,X 496,Trekking Backpacks designed for sports and outdoor activities.,Red,44,Pro,454.03,653.94
+2403,1008,Dec-03,Trekking Poles,Active 809,Trekking Poles designed for sports and outdoor activities.,Navy,42,Premium,53.33,93.61
+2404,1009,Dec-04,Camping Tents,X 848,Camping Tents designed for sports and outdoor activities.,Black,L,Standard,290.68,398.71
+2405,1010,Dec-05,Sleeping Bags,Elite 448,Sleeping Bags designed for sports and outdoor activities.,Grey,S,Premium,390.31,753.66
+2406,1011,Dec-06,Mountain Bikes,X 417,Mountain Bikes designed for sports and outdoor activities.,Black,S,Sport,323.92,603.32
+2407,1012,Dec-07,Road Bikes,Core 152,Road Bikes designed for sports and outdoor activities.,Black,42,Premium,265.38,393.07
+2408,1013,Dec-08,Cycling Helmets,X 716,Cycling Helmets designed for sports and outdoor activities.,Blue,M,Elite,263.3,359.62
+2409,1014,Dec-09,Cycling Jerseys,X 579,Cycling Jerseys designed for sports and outdoor activities.,Navy,XL,Elite,132.93,247.05
+2410,1015,Dec-10,Bike Accessories,Elite 158,Bike Accessories designed for sports and outdoor activities.,Grey,38,Pro,278.7,464.82
+2411,1016,Dec-11,Dumbbells,Core 602,Dumbbells designed for sports and outdoor activities.,Green,44,Pro,143.09,192.37
+2412,1017,Dec-12,Resistance Bands,Elite 525,Resistance Bands designed for sports and outdoor activities.,White,XL,Pro,414.79,631.96
+2413,1018,Dec-13,Yoga Mats,X 445,Yoga Mats designed for sports and outdoor activities.,White,One Size,Elite,474,793.2
+2414,1019,Dec-14,Kettlebells,Elite 658,Kettlebells designed for sports and outdoor activities.,Orange,L,Standard,348.81,521.23
+2415,1020,Dec-15,Exercise Bikes,Elite 558,Exercise Bikes designed for sports and outdoor activities.,Navy,XL,Pro,218.7,414.16
+2416,1021,Dec-16,Football Boots,X 564,Football Boots designed for sports and outdoor activities.,Grey,S,Standard,240.08,347.71
+2417,1022,Dec-17,Footballs,Pro 812,Footballs designed for sports and outdoor activities.,Green,One Size,Premium,17.54,30.02
+2418,1023,Dec-18,Goalkeeper Gloves,Core 673,Goalkeeper Gloves designed for sports and outdoor activities.,White,S,Sport,92.65,181.94
+2419,1024,Dec-19,Shin Guards,Plus 774,Shin Guards designed for sports and outdoor activities.,White,XS,Elite,116.95,165.37
+2420,1025,Dec-20,Training Cones,X 419,Training Cones designed for sports and outdoor activities.,Black,40,Premium,468.01,670.92
+2421,1026,Dec-21,Cricket Bats,Elite 305,Cricket Bats designed for sports and outdoor activities.,Green,S,Sport,408.68,634.9
+2422,1027,Dec-22,Cricket Balls,X 437,Cricket Balls designed for sports and outdoor activities.,Red,XL,Standard,477.27,857.52
+2423,1028,Dec-23,Batting Gloves,Core 434,Batting Gloves designed for sports and outdoor activities.,Green,S,Pro,116.92,229.35
+2424,1029,Dec-24,Batting Pads,Core 583,Batting Pads designed for sports and outdoor activities.,Navy,38,Sport,71.05,139.57
+2425,1030,Dec-25,Cricket Helmets,Elite 670,Cricket Helmets designed for sports and outdoor activities.,Red,One Size,Standard,192.73,281.49
+2426,1031,Dec-26,Badminton Rackets,Core 465,Badminton Rackets designed for sports and outdoor activities.,Navy,38,Premium,24.75,48.05
+2427,1032,Dec-27,Shuttlecocks,Pro 608,Shuttlecocks designed for sports and outdoor activities.,Green,One Size,Sport,43.33,69.61
+2428,1033,Dec-28,Grip Tapes,Active 266,Grip Tapes designed for sports and outdoor activities.,Orange,XL,Sport,258.54,406.98
+2429,1034,Dec-29,Badminton Shoes,Pro 506,Badminton Shoes designed for sports and outdoor activities.,Grey,One Size,Sport,162.84,320.08
+2430,1035,Dec-30,Badminton Net Sets,Core 523,Badminton Net Sets designed for sports and outdoor activities.,Red,44,Elite,176.37,314.97
+2431,1036,Dec-31,Tennis Rackets,X 231,Tennis Rackets designed for sports and outdoor activities.,Blue,XL,Pro,458.97,869
+2432,1037,Dec-32,Tennis Balls,Plus 174,Tennis Balls designed for sports and outdoor activities.,Grey,44,Standard,344.81,596.37
+2433,1038,Dec-33,Tennis Shoes,Core 245,Tennis Shoes designed for sports and outdoor activities.,Grey,XL,Elite,456.47,784.72
+2434,1039,Dec-34,Tennis Bags,X 690,Tennis Bags designed for sports and outdoor activities.,Green,42,Pro,10.26,17.82
+2435,1040,Dec-35,Tennis Strings,Elite 462,Tennis Strings designed for sports and outdoor activities.,Green,38,Pro,34.61,51.05
+2436,1041,Dec-36,Swimwear,Active 634,Swimwear designed for sports and outdoor activities.,Red,One Size,Premium,31.07,52.34
+2437,1042,Dec-37,Swimming Goggles,X 182,Swimming Goggles designed for sports and outdoor activities.,White,38,Pro,383.45,588.57
+2438,1043,Dec-38,Swim Caps,Core 896,Swim Caps designed for sports and outdoor activities.,Black,L,Premium,454.67,807.45
+2439,1044,Dec-39,Kickboards,Plus 632,Kickboards designed for sports and outdoor activities.,Red,38,Standard,343,511.11
+2440,1045,Dec-40,Swimming Fins,Plus 207,Swimming Fins designed for sports and outdoor activities.,Orange,M,Pro,112.41,152.92
+2441,1046,Dec-41,Camping Chairs,Elite 156,Camping Chairs designed for sports and outdoor activities.,Blue,One Size,Elite,494.4,789.32
+2442,1047,Dec-42,Camping Lanterns,Pro 119,Camping Lanterns designed for sports and outdoor activities.,Orange,XS,Standard,315.6,591.98
+2443,1048,Dec-43,Cooler Boxes,Pro 253,Cooler Boxes designed for sports and outdoor activities.,Orange,One Size,Elite,68.35,103.02
+2444,1049,Dec-44,Camping Cooking Sets,Pro 624,Camping Cooking Sets designed for sports and outdoor activities.,White,44,Pro,460.5,762.43
+2445,1050,Dec-45,Hiking Backpacks,Elite 404,Hiking Backpacks designed for sports and outdoor activities.,Blue,XS,Premium,376.27,650.01
+2446,1051,Dec-46,Yoga Blocks,Core 240,Yoga Blocks designed for sports and outdoor activities.,Grey,One Size,Sport,361.27,652.59
+2447,1052,Dec-47,Yoga Straps,Pro 727,Yoga Straps designed for sports and outdoor activities.,Grey,XL,Premium,175.57,233.68
+2448,1053,Dec-48,Meditation Cushions,Core 359,Meditation Cushions designed for sports and outdoor activities.,Black,38,Sport,376.35,664.85
+2449,1054,Dec-49,Foam Rollers,Plus 690,Foam Rollers designed for sports and outdoor activities.,Grey,44,Standard,326.73,473.19
+2450,1055,Dec-50,Weight Plates,X 877,Weight Plates designed for sports and outdoor activities.,Orange,40,Elite,464.88,711.09
+2451,1056,Dec-51,Barbells,X 119,Barbells designed for sports and outdoor activities.,Navy,40,Sport,39.35,73.21
+2452,1057,Dec-52,Weight Benches,Pro 840,Weight Benches designed for sports and outdoor activities.,Green,M,Standard,458.99,795.45
+2453,1058,Dec-53,Pull-up Bars,X 841,Pull-up Bars designed for sports and outdoor activities.,Navy,40,Premium,309.77,438.18
+2454,1059,Dec-54,Medicine Balls,Core 617,Medicine Balls designed for sports and outdoor activities.,Red,38,Pro,432.38,743.91
+2455,1060,Dec-55,Basketball Shoes,Core 512,Basketball Shoes designed for sports and outdoor activities.,White,44,Pro,492.95,742.19
+2456,1061,Dec-56,Basketballs,Active 565,Basketballs designed for sports and outdoor activities.,Black,44,Elite,183.35,340.01
+2457,1062,Dec-57,Basketball Hoops,Elite 240,Basketball Hoops designed for sports and outdoor activities.,White,XS,Premium,80.64,154.48
+2458,1063,Dec-58,Compression Wear,Elite 844,Compression Wear designed for sports and outdoor activities.,Green,M,Standard,468.73,829.99
+2459,1064,Dec-59,Basketball Training Equipment,Active 861,Basketball Training Equipment designed for sports and outdoor activities.,Red,42,Elite,357.51,489.77
+2460,1065,Dec-60,Table Tennis Bats,Core 552,Table Tennis Bats designed for sports and outdoor activities.,Orange,38,Pro,461.13,638.75
+2461,1066,Dec-61,Table Tennis Balls,Active 598,Table Tennis Balls designed for sports and outdoor activities.,Navy,XS,Premium,53.37,97.83
+2462,1067,Dec-62,Table Tennis Tables,Core 109,Table Tennis Tables designed for sports and outdoor activities.,Red,S,Sport,325.18,590.3
+2463,1068,Dec-63,Table Tennis Nets,Elite 875,Table Tennis Nets designed for sports and outdoor activities.,Green,XL,Standard,181.94,352.15
+2464,1069,Dec-64,Table Tennis Covers,Core 837,Table Tennis Covers designed for sports and outdoor activities.,Blue,42,Pro,288.43,395.7
+2465,1070,Dec-65,Frisbees,X 726,Frisbees designed for sports and outdoor activities.,Navy,40,Standard,211.27,414.24
+2466,1071,Dec-66,Skipping Ropes,Core 500,Skipping Ropes designed for sports and outdoor activities.,Black,38,Pro,134.92,216.43
+2467,1072,Dec-67,Binoculars,Core 590,Binoculars designed for sports and outdoor activities.,Orange,38,Elite,10.55,18.42
+2468,1073,Dec-68,Water Bottles,Pro 395,Water Bottles designed for sports and outdoor activities.,Blue,XL,Sport,390.39,664.91
+2469,1074,Dec-69,Headlamps,X 815,Headlamps designed for sports and outdoor activities.,Green,XS,Sport,40.58,57.06
+2470,1075,Dec-70,Ski Jackets,Elite 125,Ski Jackets designed for sports and outdoor activities.,Black,One Size,Standard,226.89,411.96
+2471,1076,Dec-71,Ski Pants,Plus 840,Ski Pants designed for sports and outdoor activities.,Black,L,Sport,386.1,731.54
+2472,1077,Dec-72,Ski Gloves,Plus 385,Ski Gloves designed for sports and outdoor activities.,Red,M,Pro,200.51,345.33
+2473,1078,Dec-73,Snow Boots,Elite 190,Snow Boots designed for sports and outdoor activities.,White,XL,Standard,57.7,94.07
+2474,1079,Dec-74,Thermal Wear,Core 497,Thermal Wear designed for sports and outdoor activities.,Grey,XS,Standard,110.66,168.53
+2475,1001,Dec-75,Running Shoes,Plus 717,Running Shoes designed for sports and outdoor activities.,Navy,38,Pro,178.91,289.29
+2476,1002,Dec-76,Running Apparel,Plus 442,Running Apparel designed for sports and outdoor activities.,Green,M,Standard,477.32,695.57
+2477,1003,Dec-77,Hydration Packs,Pro 599,Hydration Packs designed for sports and outdoor activities.,Black,One Size,Sport,191.04,327.8
+2478,1004,Dec-78,GPS Watches,Elite 663,GPS Watches designed for sports and outdoor activities.,White,38,Pro,337.14,615.68
+2479,1005,Dec-79,Running Socks,Active 844,Running Socks designed for sports and outdoor activities.,Orange,S,Standard,331.48,639.32
+2480,1006,Dec-80,Hiking Shoes,X 683,Hiking Shoes designed for sports and outdoor activities.,White,42,Premium,182.18,354.98
+2481,1007,Dec-81,Trekking Backpacks,Pro 552,Trekking Backpacks designed for sports and outdoor activities.,Navy,XL,Elite,63.81,94.73
+2482,1008,Dec-82,Trekking Poles,Active 788,Trekking Poles designed for sports and outdoor activities.,White,L,Elite,301.05,474.86
+2483,1009,Dec-83,Camping Tents,Active 762,Camping Tents designed for sports and outdoor activities.,White,XS,Pro,78.22,104.42
+2484,1010,Dec-84,Sleeping Bags,X 599,Sleeping Bags designed for sports and outdoor activities.,Orange,S,Pro,370.47,589.38
+2485,1011,Dec-85,Mountain Bikes,Pro 856,Mountain Bikes designed for sports and outdoor activities.,Navy,44,Elite,495.05,724.93
+2486,1012,Dec-86,Road Bikes,Plus 900,Road Bikes designed for sports and outdoor activities.,Green,40,Pro,402.51,610.47
+2487,1013,Dec-87,Cycling Helmets,Pro 864,Cycling Helmets designed for sports and outdoor activities.,Navy,One Size,Elite,376.99,600.01
+2488,1014,Dec-88,Cycling Jerseys,Active 172,Cycling Jerseys designed for sports and outdoor activities.,White,One Size,Elite,30.83,53.55
+2489,1015,Dec-89,Bike Accessories,Elite 271,Bike Accessories designed for sports and outdoor activities.,Green,38,Elite,126.75,246.46
+2490,1016,Dec-90,Dumbbells,Plus 779,Dumbbells designed for sports and outdoor activities.,Green,XL,Standard,310.77,458.67
+2491,1017,Dec-91,Resistance Bands,X 356,Resistance Bands designed for sports and outdoor activities.,White,38,Elite,222.5,401.92
+2492,1018,Dec-92,Yoga Mats,X 882,Yoga Mats designed for sports and outdoor activities.,Black,38,Standard,190.38,297.24
+2493,1019,Dec-93,Kettlebells,Pro 168,Kettlebells designed for sports and outdoor activities.,Orange,One Size,Pro,173.49,259.12
+2494,1020,Dec-94,Exercise Bikes,Active 514,Exercise Bikes designed for sports and outdoor activities.,White,38,Standard,468.35,702.21
+2495,1021,Dec-95,Football Boots,Pro 683,Football Boots designed for sports and outdoor activities.,Orange,M,Sport,324.89,646.29
+2496,1022,Dec-96,Footballs,Plus 818,Footballs designed for sports and outdoor activities.,Grey,M,Elite,303.04,593.26
+2497,1023,Dec-97,Goalkeeper Gloves,Plus 728,Goalkeeper Gloves designed for sports and outdoor activities.,Blue,XL,Sport,90.14,127
+2498,1024,Dec-98,Shin Guards,Pro 783,Shin Guards designed for sports and outdoor activities.,Blue,40,Standard,100.07,189.88
+2499,1025,Dec-99,Training Cones,Active 425,Training Cones designed for sports and outdoor activities.,Blue,42,Premium,222.5,295.14
+2500,1026,Dec-00,Cricket Bats,Elite 900,Cricket Bats designed for sports and outdoor activities.,Blue,XL,Standard,214,295.88
