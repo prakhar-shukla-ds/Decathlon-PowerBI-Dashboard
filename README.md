@@ -1,6 +1,6 @@
 # Decathlon Sales & Performance Dashboard
 
-An interactive **Power BI** dashboard designed to analyze Decathlon's sales performance, profitability, customer orders, product returns, and regional trends using an AI-simulated retail dataset for data analytics and visualization practice.
+An interactive **Power BI** dashboard designed to analyze Decathlon's sales performance, profitability, customer orders, product returns, and regional trends using an simulated retail dataset for data analytics and visualization practice.
 
 ## Key Features
 
@@ -8,9 +8,6 @@ An interactive **Power BI** dashboard designed to analyze Decathlon's sales perf
 * Sales & Revenue Trend Analysis
 * Product Category Performance Analysis
 * Product-Level Sales & Return Analysis
-* Geographic Sales Analysis (Country & Region)
-* Customer Performance Analysis
-* Interactive Slicers & Filters
 * Drill-through Pages
 * Custom Tooltips
 * Dynamic DAX Measures
@@ -24,9 +21,7 @@ An interactive **Power BI** dashboard designed to analyze Decathlon's sales perf
 * Maintained a **2.2% return rate**.
 * Tracked revenue trends over time to identify sales growth patterns.
 * Identified top-performing product categories and products.
-* Analyzed regional and country-wise sales performance.
-* Monitored product return trends to evaluate product quality and customer behavior.
-* Calculated Average Order Value (AOV), Profit Margin, Previous Month Revenue, and other business KPIs using DAX.
+* Analyzed country-wise sales performance.
 
 ## Tools Used
 
