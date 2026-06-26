@@ -40,11 +40,7 @@ An interactive **Power BI** dashboard designed to analyze Decathlon's sales perf
 
 * Executive Dashboard
 * Product Analysis
-* Customer Analysis
 * Geographic Analysis
-* Decomposition Tree
-* Key Influencers
-* Q&A
 
 ## Dashboard Preview
 
